@@ -1,0 +1,29 @@
+# IDE Files
+*.idea
+*.vs
+
+# Library stuff
+/includes
+/lib
+
+# Vulkan SDK files
+*.lib
+*.dll
+*.so
+*.pdb
+
+# Compiled files
+*.exe
+*.obj
+*.o
+x64/
+VulkanEngine/
+obj/
+bin/
+/packages/
+riderModule.iml
+
+# Cache files
+.vscode/
+.cache/
+/_ReSharper.Caches/
